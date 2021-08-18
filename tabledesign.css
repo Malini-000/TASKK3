@@ -1,0 +1,57 @@
+body
+{
+background-image: linear-gradient(to bottom, white,pink);
+font-weight:bold;
+background-image: radial-gradient(red, yellow,blue);
+}
+.cont{
+    position: relative;
+    border-style: dashed;
+   border: 5px solid palevioletred;
+   background-color: yellow;
+   padding: 30px;
+}
+
+.tab3
+{
+ position: absolute;
+ margin-left:800px;
+ bottom: 5px;
+}
+
+table,tr,td
+{
+    border: 4px solid palevioletred;
+border-collapse: collapse;
+
+}
+th,td
+{
+
+padding: 20px;
+font-style: italic;
+}
+th
+{
+color:white;
+font-style: italic;
+background-color:blue;
+text-transform: uppercase;
+text-shadow: 8px 8px 8px rgb(12, 12, 12);
+}
+.total
+{
+font-weight: bold;
+margin-left:320px;
+margin-bottom:20px;
+word-spacing: 30px;
+}
+h1{
+    font-style: italic;
+    font-family: Copperplate, Papyrus, fantasy;
+    color:palevioletred;    
+    text-shadow: 4px 4px 4px rgb(12, 12, 12);
+}
+}
+
+
